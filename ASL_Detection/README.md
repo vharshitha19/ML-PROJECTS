@@ -16,5 +16,5 @@ To recognize hand sign images and classify them into ASL letters and special sym
 - OpenCV
 
 ## Output
-Predicts the ASL sign shown in the input image.
+Predicts the ASL sign shown in the input image. 
 
